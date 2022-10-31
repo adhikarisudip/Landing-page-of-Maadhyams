@@ -1,0 +1,2 @@
+# Landing-page-of-Maadhyams
+Maadhyams is a platform to assist students applying to the United States for their higher education. Here at Maadhyams, you can access information and resources required for your application, learn directly from experienced students, connect, and be guided by pro-bono mentors. We are a community initiated by the students, for the students. Do not be afraid to chase your dream! We promise to walk along with you throughout your journey!
